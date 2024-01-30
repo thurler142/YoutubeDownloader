@@ -21,4 +21,4 @@ while True:
     if event == 'Baixar':
         YTDownload()
         sg.popup('Baixado com Sucesso!')
-        
+        break
